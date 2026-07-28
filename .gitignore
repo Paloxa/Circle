@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller / Build
+build/
+dist/
+*.spec
+
+# Исключаем личные конфиги, если нужно оставить дефолтные
+Config/apps.json
+Config/settings.json
