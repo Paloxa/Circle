@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Проводник",
+        "command": "explorer",
+        "icon": "C:\\Windows\\explorer.exe"
+    },
+    {
+        "name": "Блокнот",
+        "command": "notepad",
+        "icon": "C:\\Windows\\notepad.exe"
+    },
+    {
+        "name": "Калькулятор",
+        "command": "calc",
+        "icon": "C:\\Windows\\System32\\calc.exe"
+    },
+    {
+        "name": "Диспетчер",
+        "command": "taskmgr",
+        "icon": "C:\\Windows\\System32\\Taskmgr.exe"
+    },
+    {
+        "name": "Настройки",
+        "command": "start ms-settings:",
+        "icon": ""
+    },
+    {
+        "name": "Qbittorrent",
+        "command": "E:/Programms/qBittorrent/qbittorrent.exe",
+        "icon": "E:/Programms/qBittorrent/qbittorrent.exe"
+    }
+]

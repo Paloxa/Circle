@@ -1,0 +1,9 @@
+{
+    "hotkey": "alt+c",
+    "menu_radius_inner": 60,
+    "menu_radius_outer": 175,
+    "animation_speed": 250,
+    "animation": "expand",
+    "style": "fluent",
+    "theme_mode": "dark"
+}

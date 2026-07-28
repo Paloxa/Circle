@@ -1,12 +1,20 @@
-# Python
+# Python / Cache
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
 
-# PyInstaller / Build
-build/
-dist/
-*.spec
+# Environments
+.venv/
+venv/
+ENV/
+env/
 
-# Исключаем личные конфиги, если нужно оставить дефолтные
-Config/apps.json
-Config/settings.json
+# IDE / Editors
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
