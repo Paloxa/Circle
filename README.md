@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="circle.png" width="128" height="128" alt="Circle Logo">
+  <img src="circle.png" width="100" height="128" alt="Circle Logo">
 </p>
 
 <h1 align="center">Circle — Modern Radial Launcher</h1>
