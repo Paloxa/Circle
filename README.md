@@ -2,7 +2,7 @@
   <img src="circle.png" width="160" alt="Circle Logo">
 </p>
 
-<h1 align="center">Circle — Modern Radial Launcher</h1>
+<h1 align="center">Circle</h1>
 
 <p align="center">
   <b>Высокопроизводительный круговой лаунчер приложений и сайтов для Windows</b>
