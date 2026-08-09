@@ -4,6 +4,12 @@ __pycache__/
 *$py.class
 *.so
 
+# Build & Dist
+build/
+dist/
+*.spec
+*.exe
+
 # Environments
 .venv/
 venv/

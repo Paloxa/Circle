@@ -6,6 +6,6 @@ class BaseStyle:
 
     def draw(self, painter: QPainter, widget, center: QPointF, hovered_index: int, sector_progress: float, center_scale: float):
         """
-        Метод отрисовки, который вызывается из paintEvent приложения.
+        Base drawing method to be overridden by each style plugin.
         """
-        raise NotImplementedError("Каждый стиль должен реализовывать метод draw")
+        raise NotImplementedError("Each style plugin must implement the draw method.")

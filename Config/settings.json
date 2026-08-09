@@ -1,9 +1,10 @@
 {
     "hotkey": "alt+c",
     "menu_radius_inner": 60,
-    "menu_radius_outer": 175,
+    "menu_radius_outer": 180,
     "animation_speed": 250,
     "animation": "expand",
-    "style": "fluent",
-    "theme_mode": "dark"
+    "style": "solid",
+    "theme_mode": "dark",
+    "language": "ru"
 }
